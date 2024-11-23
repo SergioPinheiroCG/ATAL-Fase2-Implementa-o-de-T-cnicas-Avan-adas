@@ -6,7 +6,7 @@ Este é um sistema simples de gerenciamento de livros em uma biblioteca, utiliza
 
 O projeto está organizado da seguinte forma:
 
-
+```plaintext
 bibliotecaFase2
 ├── br
 │   └── edu
@@ -17,7 +17,7 @@ bibliotecaFase2
 │               ├── Livro.java
 │               ├── Main.java
 │               ├── TreeNode.java
-
+```
 
 
 ## 📄 Descrição dos Arquivos
